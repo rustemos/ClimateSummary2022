@@ -20,5 +20,7 @@
 *.spl
 *.synctex.gz
 *.toc
+*.tex.bak
+
 
 reports
